@@ -4,7 +4,7 @@ body{
 .calculadora{
     display: block;
     background-color: rgb(0, 0, 0);
-    height: 500px;
+    height: 550px;
     width: 350px;
     margin: 0 auto;
     padding: 20px;
@@ -40,4 +40,9 @@ button:hover{
 }
 #reset:hover{
     background-color: rgb(128, 0, 0);
+}
+p{
+    color: white;
+    font-size: 15px;
+    text-align: center;
 }
