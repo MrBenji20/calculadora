@@ -33,3 +33,11 @@ button:hover{
     border-radius: 25px;
     overflow-y: scroll;
 }
+#reset{
+    display: block;
+    background-color: red;
+    color: white;
+}
+#reset:hover{
+    background-color: rgb(128, 0, 0);
+}
